@@ -9,8 +9,6 @@ Skills: python, basics of: c++, c# and java
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Perunio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kacper-gutowski-aa03062a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.linkedin.com/company/czarna-magia-student-artificial-inteligence-society/mycompany/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Perunio&show_icons=true)  
-
 ## My repositories:
 
 https://github.com/Perunio/Sorting-algorithms
