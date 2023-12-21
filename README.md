@@ -11,3 +11,6 @@ Skills: python, basics of: c++, c# and java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Perunio&show_icons=true)  
 
+## My repositories:
+
+https://github.com/Perunio/Sorting-algorithms
