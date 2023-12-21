@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Kacper Gutowski
 #### I am a Computer Science Student at University of Warmia and Mazury in Olsztyn
-I mainly do projects related to my studies, but recently I have become interested in artificial intelligence and machine learning. I'am a Member of Artificial Intelligence Society  "Czarna Magia".
+I mainly do projects related to my studies. Recently I have become interested in AI/ML. Thats why I joined Artificial Intelligence Society "Czarna Magia".
 
 Skills: python, basics of: c++, c# and java
 
