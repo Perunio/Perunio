@@ -11,4 +11,4 @@ Skills: python, basics of: c++, c# and java
 
 ## My repositories:
 
-https://github.com/Perunio/Sorting-algorithms
+https://github.com/Perunio/sorting-algorithms
