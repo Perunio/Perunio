@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper Gutowski</h1>
-<h3 align="center">#### I am a Computer Science Student at University of Warmia and Mazury in Olsztyn I mainly do projects related to my studies. Recently I have become interested in AI/ML. Thats why I joined Artificial Intelligence Society "Czarna Magia". Skills: python(Numpy, Pandas, Scikit-learn, basics of PyTorch), basics of: c++, c# and java</h3>
+<h3 align="center">#### I am a Computer Science Student at University of Warmia and Mazury in Olsztyn I mainly do projects related to my studies. Recently I have become interested in AI/ML. Thats why I joined Artificial Intelligence Society "Czarna Magia". 
+#Skills: python(Numpy, Pandas, Scikit-learn, basics of PyTorch), basics of: c++, c# and java</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
